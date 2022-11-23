@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+  font-family: 'Alata';
+}
+
+.container{
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  margin: auto;
+  width:1000px;
+  margin-top: 50px;
+  padding: 100px;
+}
+
+header{
+  color: rgb(0,255,0);
+  text-align: center;
+}
+header h1{
+  margin: 5px;
+}
+
+.logo{
+  width: 200px;
+}
+
+nav{
+  background-color: rgb(0,255,0);
+  padding: 15px;
+}
+
+.input-box{
+  text-align: center;
+}
+
+.available-scooter{
+  color: white;
+}
+.scooter {
+  margin-top: 20px;
+}
+.scooter-name{
+  font-size: 25px;
+}
+.bar {
+  height: 25px;
+  border-radius: 5px;
+}
+.rectangle1 {
+  background-color: #f5b453;
+  width: 300px;
+}
+
+.rectangle2 {
+  background-color: #1ec31e;
+  width: 500px;
+}
+.rectangle3 {
+  background-color: #be4141;
+  width: 150px;
+}
